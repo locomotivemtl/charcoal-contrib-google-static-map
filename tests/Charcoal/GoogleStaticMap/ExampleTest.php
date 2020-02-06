@@ -1,12 +1,12 @@
 <?php
 
-namespace Charcoal\Tests\FooBar;
+namespace Charcoal\Tests\GoogleStaticMap;
 
-// From 'charcoal-contrib-foobar'
+// From 'charcoal-contrib-google-static-map'
 use Charcoal\Tests\AbstractTestCase;
 
 /**
- * @coversDefaultClass Charcoal\FooBar\ExampleInterface
+ * @coversDefaultClass Charcoal\GoogleStaticMap\ExampleInterface
  */
 class ExampleTest extends AbstractTestCase
 {

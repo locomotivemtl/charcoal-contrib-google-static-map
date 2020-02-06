@@ -1,11 +1,14 @@
 {
     "type": "library",
-    "name": "locomotivemtl/charcoal-contrib-foobar",
-    "description": "Charcoal service provider for my cool feature.",
+    "name": "locomotivemtl/charcoal-contrib-google-static-map",
+    "description": "A Charcoal module to generate a google static map compatible url",
     "keywords": [
-        "charcoal"
+        "charcoal",
+        "google",
+        "static",
+        "map"
     ],
-    "homepage": "https://locomotivemtl.github.io/charcoal-contrib-foobar/",
+    "homepage": "https://locomotivemtl.github.io/charcoal-contrib-google-static-map/",
     "license": "MIT",
     "authors": [
         {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Charcoal\FooBar;
+namespace Charcoal\GoogleStaticMap;
 
 /**
  * Cool Feature
